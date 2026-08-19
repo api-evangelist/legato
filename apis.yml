@@ -65,7 +65,7 @@ x-enrichment-note: >-
   website, no developer portal, no OpenAPI, no first-party packages, no
   well-known documents. Zero artifacts were created by design (no-fabrication).
   Do not re-run artifact enrichment against this slug.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
