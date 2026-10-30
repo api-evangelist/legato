@@ -64,20 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Legato Systems, Inc. was a storage management software company founded in 1988 in Palo Alto, California by four former Sun Microsystems engineers — Jon Kepecs, Bob Lyon, Joe Moran, and Russell Sandberg. Its flagship product, NetWorker, was introduced for Unix in 1990 and became one of the defining enterprise backup, recovery, and archiving platforms of the client-server era.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by Mayfield, the company went public in July 1995. EMC Corporation announced its acquisition of Legato in July 2003 and completed it in October 2003 for an estimated $1.3 billion. The NetWorker product line survives today as Dell EMC NetWorker.
+Legato Systems, Inc. was a storage management software company founded in 1988 in Palo Alto, California by four former Sun Microsystems engineers — Jon Kepecs, Bob Lyon, Joe Moran, and Russell Sandberg. Its flagship product, NetWorker, was introduced for Unix in 1990 and became one of the defining enterprise backup, recovery, and archiving platforms of the client-server era, centralizing scheduled backup, media management, and disaster recovery across heterogeneous Unix, Windows, and NetWare environments. Backed by Mayfield, the company went public in July 1995. EMC Corporation announced its acquisition of Legato in July 2003 and completed it in October 2003 for an estimated $1.3 billion, folding the product line into EMC's information-management portfolio. NetWorker survives today as Dell EMC NetWorker following Dell's 2016 acquisition of EMC. No Legato-branded developer or API surface remains: the legato.com domain carries Akamai nameservers but publishes no website, and the company predates modern package registries, so no first-party client libraries exist. This profile is retained as a historical Mayfield portfolio record.
 
-**Status:** acquired / historical. Backed by: mayfield.
+**Areas:** Company · Enterprise · Storage · Data Storage · Backup · Backup and Recovery · Disaster Recovery · Archiving · Storage Management · Data Protection · Enterprise Software · Historical
 
-## No API surface
+## Legato Systems on APIs.io (historical record)
 
-This company has been defunct as an independent entity since 2003. The `legato.com` domain carries Akamai nameservers but publishes no website, and the company predates modern package registries, so no first-party client libraries exist. The enrichment pipeline ran on 2026-07-19 and correctly produced **zero artifacts** — there is nothing to harvest and nothing may be fabricated.
+Everything profiled for Legato Systems is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/legato/](https://apis.io/providers/legato/)** — or go straight to one of the APIs or properties below.
 
-## Disambiguation
+## API Evangelist rating
 
-Do not attach artifacts from these unrelated entities that share the Legato name:
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
-- **legato.io** — Sierra Wireless's open-source embedded IoT application platform
-- **Legato Security** — a managed-security-services provider
-- **Legato Health Technologies** — an Elevance Health (Anthem) subsidiary
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Legato Systems: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/legato/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
